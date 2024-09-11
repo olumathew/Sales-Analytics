@@ -14,6 +14,9 @@
 ---
 SodaSpark Beverages collaborates with a network of retailers across multiple regions and seeks to assess their sales performance. The aim is to identify top-performing retailers, optimize resource allocation, and track sales patterns over time. By analyzing these insights, SodaSpark Beverages plans to improve profitability, enhance distribution efficiency, and target future marketing efforts.
 
+![Spark Soda Dashboard](https://github.com/user-attachments/assets/2dd26260-5df4-45c1-ac83-72fac80456e1)
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the SodaSpark_Data.xlsx, containing details information each sale made by the company.
