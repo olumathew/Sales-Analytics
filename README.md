@@ -11,7 +11,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-
+---
 SodaSpark Beverages collaborates with a network of retailers across multiple regions and seeks to assess their sales performance. The aim is to identify top-performing retailers, optimize resource allocation, and track sales patterns over time. By analyzing these insights, SodaSpark Beverages plans to improve profitability, enhance distribution efficiency, and target future marketing efforts.
 
 ### Data Sources
@@ -58,3 +58,5 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Introduce new beverage flavors or healthier options under the Coca-Cola and Dasani Water brands to attract health-conscious customers or those looking for variety. Diversifying the product line can tap into evolving consumer preferences and expand the customer base.
 - Conduct a cost analysis to identify areas where expenses can be reduced without compromising product quality, focusing particularly on brands with lower profit margins. Reducing costs will help increase profitability, especially for lower-performing beverage brands like Fanta and Powerade
 
+
+😊
