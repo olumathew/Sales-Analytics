@@ -16,7 +16,7 @@ SodaSpark Beverages collaborates with a network of retailers across multiple reg
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the Sales_data.xlsx, containing details information each sale made by the company.
+Sales Data: The primary dataset used for this analysis is the SodaSpark_Data.xlsx, containing details information each sale made by the company.
 
 ### Tools
 
